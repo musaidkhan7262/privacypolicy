@@ -1,0 +1,52 @@
+Privacy Policy for Tasbih Counter App on Play Store
+
+Effective Date: 02-06-2023
+
+This Privacy Policy describes how your personal information is collected, used, and shared when you download, install, and use the Tasbih Counter mobile application  available on the Google Play Store.
+
+1. Information We Collect
+When you download, install, and use the Tasbih Counter App, we may collect certain information from you:
+
+1.1 Personal Information:
+- Device Information: We may collect certain information about your mobile device, including the device model, operating system, unique device identifiers, and mobile network information.
+- Log Information: We automatically collect standard log information, including your IP address, browser type, and referring/exit pages.
+
+1.2 Non-Personal Information:
+- Usage Information: We may collect information about how you use the App, such as the features you interact with, the time spent on the App, and the frequency of use.
+
+2. How We Use Your Information
+We may use the collected information for the following purposes:
+
+- To provide and maintain the App's functionality.
+- To personalize and improve user experience within the App.
+- To analyze usage patterns and trends to enhance and optimize the App's performance.
+- To respond to your customer support inquiries and provide technical assistance.
+- To send you updates, newsletters, marketing communications, and other relevant information, where you have provided your consent to receive such communications.
+- To detect, prevent, and address technical issues, security breaches, or potential fraudulent activities.
+
+3. Information Sharing
+We may share your personal information with third parties in the following circumstances:
+
+- With your consent or at your direction.
+- With service providers, contractors, and vendors who assist us in providing the App's functionality and services.
+- When required by law, such as to comply with a subpoena, court order, or other legal process.
+- In connection with a merger, acquisition, or sale of our assets, where your information may be transferred to the acquiring entity.
+
+4. Data Retention
+We will retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+5. Data Security
+We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no security system is entirely foolproof, and we cannot guarantee the absolute security of your information.
+
+6. Your Rights
+You have certain rights regarding your personal information, including the right to access, correct, or delete the information we hold about you. If you wish to exercise these rights or have any questions or concerns regarding your privacy, please contact us using the information provided below.
+
+7. Changes to This Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time. The updated Privacy Policy will be effective as of the revised date mentioned at the beginning of the policy. We recommend reviewing this Privacy Policy periodically.
+
+8. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at:
+
+musaidkhan7262@gmail.com
+
+By downloading, installing, and using the Tasbih Counter App, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
